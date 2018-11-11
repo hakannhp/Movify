@@ -1,0 +1,15 @@
+export { default as HomeScreen } from './HomeScreen';
+export { default as ProfileScreen } from './ProfileScreen';
+export { default as SearchScreen } from './SearchScreen';
+export { default as WatchlistScreen } from './WatchlistScreen';
+export { default as WatchedlistScreen } from './WatchedlistScreen';
+export { default as ActivateUser } from './authScreens/activateUser';
+export { default as Login } from './authScreens/login';
+export { default as LoginOrSignup } from './authScreens/loginOrSignup';
+export { default as ResetPassword } from './authScreens/resetPassword';
+export { default as Signup } from './authScreens/signup';
+export { default as ProfileSettings } from './ProfileSettings';
+export { default as ProfileSearch } from './ProfileSearch';
+export { default as MovieDetailsScreen } from './MovieDetailsScreen';
+export { default as FollowList } from './FollowList';
+export { default as OtherProfile } from './OtherProfile';
